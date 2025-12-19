@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Proyecto Uno",
+    "supabase_url": "https://tkhpbvpazkgyihitulwz.supabase.co",
+    "supabase_key_env": "SUPABASE_KEY_1",
+    "table_name": "keep-alive"
+  },
+  {
+    "name": "Proyecto Dos",
+    "supabase_url": "https://amwrhrvknxslvcbgnkhb.supabase.co",
+    "supabase_key_env": "SUPABASE_KEY_2",
+    "table_name": "keep-alive"
+  }
+]
